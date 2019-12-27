@@ -1,0 +1,6 @@
+name=marcuscode
+domain_name=marcuscode.com
+year=2017
+type=tutorial
+head_color=blue
+theme=light
